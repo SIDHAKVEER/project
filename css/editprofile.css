@@ -73,5 +73,6 @@
         -webkit-transition: all .4s ease-in-out;
         transition: all .4s ease-in-out;
         background-image: linear-gradient(to right,  #667eea, #8E37D7, #2c5eca, #8E37D7);
+        color: white;
       }
     
