@@ -1,0 +1,77 @@
+
+.changepass-form-1{
+    position: relative;
+    border-radius: 2em;
+    padding: 5%;
+    box-shadow: 0 5px 18px 0 rgba(148, 145, 145, 0.75), 0 10px 28px 0 rgba(134, 134, 134, 0.19);
+    right: 2.1em;
+    height: 25em;
+    width: 70em;
+    }
+    
+    
+    .btnnavcp{
+        font-weight: 600;
+        color: #fff;
+        cursor: pointer;
+        margin: 10px;
+        text-align:center;
+        background-size: 300% 100%;
+        border: none;
+        width: 150px;
+        border-radius: 5px;
+        
+        cursor: pointer;
+        position: relative;
+        height: 50px;
+        top: 6em;
+        background-color: rgb(65, 78, 230);
+        left: 21em;
+        font-size: 20px;
+        
+    
+        
+        transition: all .4s ease-in-out;
+        -o-transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+    }
+    .btnnavcp:hover {
+        
+        box-shadow: 0 5px 18px 0 rgba(148, 145, 145, 0.75), 0 10px 28px 0 rgba(134, 134, 134, 0.19);
+        background-position: 100% 0;
+        transition: all .4s ease-in-out;
+        -o-transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+        background-image: linear-gradient(to right,  #667eea, #8E37D7, #2c5eca, #8E37D7);
+      }
+            
+    
+    
+    #f9{
+        width: 16em;
+        height: 40px;
+        right: 10em;
+        position: relative;
+        bottom: 7em;
+    
+    }
+    #f10{
+        width: 16em;
+        height: 40px;
+        right: 9em;
+        position: relative;
+        bottom: 7em;
+    
+    
+    }
+    #f11{
+        width: 16em;
+        height: 40px;
+        right: 8em;
+        position: relative;
+        bottom: 7em;
+    
+    }
+    

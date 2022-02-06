@@ -1,0 +1,129 @@
+.widgets{
+    padding: 50px;
+  }
+  .widgets .btn{
+    position:relative;
+    height: 130px;
+    width: 160px;
+    background-color: #ffffff; 
+    border-radius: 1em;
+    font-size: 15px;
+     display: flex; 
+  justify-content: center;  
+  align-items: center;  
+    color: #000;
+    left: 1em;
+  
+    
+    
+    
+    
+   }
+  HTML CSSResult Skip Results Iframe
+  EDIT ON
+  * {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+  }
+  
+  .buttons {
+      margin: 10%;
+      text-align: center;
+      
+      
+  }
+  
+ 
+
+  .btn-hover:focus {
+      outline: none;
+  }
+  
+  .btn-hover.color {
+      
+      box-shadow: 0 4px 15px 0 rgba(116, 79, 168, 0.75);
+  }
+  .container{
+    padding-left: 5em;
+    
+  }
+  .login-container{
+    padding: 4em;
+    
+  }
+  .login-form-1{
+    position: relative;
+    border-radius: 2em;
+    padding: 10%;
+    box-shadow: 0 5px 18px 0 rgba(148, 145, 145, 0.75), 0 10px 28px 0 rgba(134, 134, 134, 0.19);
+    left: 13.1em;
+    height: 40em;
+    width: 40em;
+    }
+  .h3{
+    padding: 5%;
+    bottom: 2em;
+    font-size: 40px;
+    font-weight: bolder;
+    position: relative;
+    left: 0.7em;
+    
+  
+     color: #0f62ac
+     
+     
+    
+    
+    
+  }
+  
+  
+  
+  
+  
+  
+  .login-form-1 .ForgetPwd{
+    position: relative;
+    color: #0f62ac;
+    font-weight: 600;
+    text-decoration: none;
+    top: 0;
+    right: 3em;
+    
+    
+  
+  }
+  .fpwd{
+    position: relative;
+    left: 25em;
+    color: #0f62ac;
+    font-weight: 600;
+    text-decoration: none;
+    bottom: 2.4em;
+  
+  }
+  * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  
+  
+  .emlpass{
+    position: relative;
+    font-size: 20px;
+    padding: 2%;
+    width: 550px;
+    outline: blueviolet;
+    
+    bottom: 50px;
+    right: 2.6em;
+    margin-bottom: 1em;
+    }
+  .emlpass:focus{
+    border: 2px solid rgba(116, 79, 168, 0.75)
+  }
